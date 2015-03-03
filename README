@@ -1,3 +1,1 @@
-~~~
-› cat /dev/zero | head -c 65533 | tr '\0' 'x' > code.txt
-~~~
+See https://github.com/joyent/node/issues/8040 for the issue description
